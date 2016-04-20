@@ -1,6 +1,11 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
+    "HELLO": "Would you like to know about his professional EXPERIENCE 👔, his EDUCATION 💯, or some of his SKILLS 🛠? I also know some of his favorite BOOKS 📚, TV SHOWS 🎥, and PODCASTS 🎤!",
+    "EDUCATION": "He's a first-year Presidential Scholar at Babson College, on track to graduate in 2019. He's also taking CS courses 🏛 at Harvard & Columbia 🗽. He graduated from Harvard-Westlake School in 2015 🎓.",
+    "EXPERIENCE": "As a senior at Harvard-Westlake, he founded and operated HW Inc, a sold-out entrepreneurship bootcamp (documentary here: www.intrapreneursfilm.com). He's also directed over $5MM 💰 as an analyst at a RE development group & worked as a summer camp 🌞 counselor.", 
+    "SKILLS": "He's an burgeoning back-end developer, competed at PennApps & Hack@Brown, and won \"Best Developers Tool\" at Wellesley's 2016 spring hackathon 🖥 with a tool to track student sentiment on college campuses. He's also a compulsive teacher & loves copy-editing 📓.", 
+    "BOOKS": "He keeps track of his favorites here! http://bit.ly/1NAxVG3 He's currently working through Isaac Asimov's \"The Complete Robot\" 🤖 and Jim Collins's \"Good To Great\" 💯.", 
+    "TV SHOWS": "Huge West Wing, Newsroom, and Parks & Rec fan, but he secretly loves Family Guy. Just don't tell anyone 😶.", 
+    "PODCASTS": "Reply All, Planet Money, Radiolab, and the first season of Serial. Oh, and The Moth for long car rides 🚗.", 
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
