@@ -69,10 +69,22 @@ module.exports = new Script({
 
                 return p.then(() => 'speak');
             }
-
+            
+            function followUpMessage(isSilent) {
+                if (isSilent) {
+                    return Promise.resolve("speak");
+                }
+                
+                if (!_.has(scriptRules, upperText)) {
+                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                }
+                
+                return bot.say(`What else do you want to know about?`);
+                
             return updateSilent()
                 .then(getSilent)
                 .then(processMessage);
+                .then(followUpMessage);
         }
     }
 });
